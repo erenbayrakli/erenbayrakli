@@ -1,4 +1,11 @@
 👋Hi! I'm Eren, from Istanbul.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## I'm a Developer 👨‍🎓
+- 🔭 I’m currently working as a Backend Developer.
+- 👯 I’m looking to collaborate with other developers 👩‍💻 
+- 🌱 I’m currently learning 😂    
+
 
 ### 📩 Connect with me:
 
