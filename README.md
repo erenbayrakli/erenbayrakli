@@ -6,7 +6,7 @@
 ## I'm a Developer 👨‍🎓
 - 🔭 I’m currently working as a Backend Developer.
 - 👯 I’m looking to collaborate with other developers 👩‍💻 
-- 🌱 I’m currently learning 😂    
+- 🌱 Currently developing codes and myself   
 
 <br />
 <br />
