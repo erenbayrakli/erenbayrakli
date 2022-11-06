@@ -6,9 +6,11 @@
 - 🔭 I’m currently working as a Backend Developer.
 - 👯 I’m looking to collaborate with other developers 👩‍💻 
 - 🌱 I’m currently learning 😂    
+- 
 <br />
-<br /><br />
 <br />
+<br />
+
 ### Languages and Tools:  
 
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
