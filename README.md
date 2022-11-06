@@ -6,8 +6,7 @@
 - 🔭 I’m currently working as a Backend Developer.
 - 👯 I’m looking to collaborate with other developers 👩‍💻 
 - 🌱 I’m currently learning 😂    
-- 
-<br />
+
 <br />
 <br />
 
