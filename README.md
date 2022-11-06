@@ -9,7 +9,7 @@
 ### Languages and Tools:  
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) 
- 
+ ![MySQL](https://img.shields.io/badge/-mysqlstyle=flat&logo=c%20sharp&logoColor=fff) 
 
 <br />
 <br />
