@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate with other developers 👩‍💻 
 - 🌱 I’m currently learning 😂    
 
-### Languages and Tools: 
-[<img align="left" alt="C#" width="26px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff" style="padding-right:10px;" />]
+### Languages and Tools:  
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
