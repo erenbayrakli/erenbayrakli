@@ -3,8 +3,7 @@
 👋Hi! I'm Eren, from Istanbul.
 
 
-## I'm a Developer 👨‍🎓
-- 🔭 I’m currently working as a Backend Developer.
+- 🔭 I’m currently working as a Software Engineer.
 - 👯 I’m looking to collaborate with other developers 👩‍💻 
 - 🌱 Currently developing codes and myself   
 
