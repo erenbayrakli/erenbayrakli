@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate with other developers 👩‍💻 
 - 🌱 Currently developing codes and myself   
 
-<br />
-<br />
 
   
 
